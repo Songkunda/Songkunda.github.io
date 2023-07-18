@@ -1,0 +1,50 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mc-mt7612e_v10sg-2x2-5g_20130916.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mc-mt7612e_v10sg-2x2-5g_20130916.dsn")
+      (Path "Design Resources" ".\mc-mt7612e_v10sg-2x2-5g_20130916.dsn"
+         "FMC-MT7662-V0.2")
+      (Select "Design Resources" ".\mc-mt7612e_v10sg-2x2-5g_20130916.dsn"
+         "FMC-MT7662-V0.2" "2. RF frond end circuit.SCH"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 534 0 543"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 0 811 -4 -30 22 1055 29 610")
+        (Scroll "72 880")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\NORRIS\WCN\WLAN\MT7662\EPA\RFB\FMC_5G\FMC\WS2318\DMS\V10SG\SCH\MC-MT7612E_V10SG-2X2-5G_20130916.DSN")
+      (Schematic "FMC-MT7662-V0.2")
+      (Page "2. RF frond end circuit.SCH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 110 1139 145 722")
+        (Scroll "0 280")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\NORRIS\WCN\WLAN\MT7662\EPA\RFB\FMC_5G\FMC\WS2318\DMS\V10SG\SCH\MC-MT7612E_V10SG-2X2-5G_20130916.DSN")
+      (Schematic "FMC-MT7662-V0.2")
+      (Page "1. MT7612E HMC.SCH")))
+  (MPSSessionName "mtk03046"))
